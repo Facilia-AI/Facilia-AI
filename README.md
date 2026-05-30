@@ -4,12 +4,14 @@
 
 `SaaS impulsado con IA para contratistas de obra y mantenimiento técnico en Colombia.`
 
-***Cotiza 10× más rápido. Controla cada peso.***
+**Cotiza 10× más rápido. Controla cada peso.**
 
 [![app](https://img.shields.io/badge/facilia.app-live-3ECF8E?style=flat-square)](https://facilia.app)
 [![país](https://img.shields.io/badge/hecho%20en-colombia-FFD700?style=flat-square)](#)
 [![ia](https://img.shields.io/badge/powered%20by-ai-CC785C?style=flat-square)](#)
 [![empresa](https://img.shields.io/badge/facilia%20holding%20s.a.s-barranquilla-56E39F?style=flat-square)](#)
+[![google](https://img.shields.io/badge/login%20con%20google-0a0a0a?style=flat-square&logo=google&logoColor=white)](https://facilia.app)
+[![github](https://img.shields.io/badge/login%20con%20github-0d1117?style=flat-square&logo=github&logoColor=white)](https://facilia.app)
 
 </div>
 
@@ -17,35 +19,30 @@
 
 ## ¿Qué es Facilia AI?
 
-Facilia es un SaaS vertical impulsado con AI para contratistas de construcción y empresas de mantenimiento en Colombia. Su propuesta es reemplazar el ciclo WhatsApp + Excel + memoria con una plataforma integrada de CRM, cotización inteligente, gestión de proyectos, control presupuestal y flujo de caja - todo diseñado para la realidad del contratista colombiano.
+Facilia es un SaaS vertical impulsado con AI para contratistas de construcción y empresas de mantenimiento en Colombia. Su propuesta es reemplazar el ciclo WhatsApp + Excel + memoria con una plataforma integrada de CRM, cotización inteligente, gestión de proyectos, control presupuestal y flujo de caja — todo diseñado para la realidad del contratista colombiano.
 
-Sin fricciones: acceso inmediato. [![google](https://img.shields.io/badge/login%20con%20Google-0a0a0a?style=flat-square&logo=google&logoColor=white)](https://facilia.app)
-[![github](https://img.shields.io/badge/login%20con%20GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://facilia.app)
+Sin fricciones: acceso inmediato con Google o GitHub.
 
 ---
 
 ## Funcionalidades
 
-### Disponibles hoy:
-**Agente AI de cotizaciones**
+### Disponibles hoy
 
-`Asistente virtual que guía al contratista paso a paso en la recopilación de datos del proyecto y genera cotizaciones profesionales organizadas por capítulos, respaldadas por precios reales del mercado colombiano (APU 2026).`
+**Agente AI de cotizaciones**
+Asistente virtual que guía al contratista paso a paso en la recopilación de datos del proyecto y genera cotizaciones profesionales organizadas por capítulos, respaldadas por precios reales del mercado colombiano (APU 2026).
 
 **Biblioteca de APUs**
-
-`Creación de análisis de precios unitarios, carga masiva de APUs propios y acceso a la base de precios APU 2026.`
+Creación de análisis de precios unitarios, carga masiva de APUs propios y acceso a la base de precios APU 2026.
 
 **Gestión de obras y proyectos**
-
-`Dashboard centralizado con seguimiento por Gantt, Kanban y Curva S. Avance de obra, ejecución de presupuestos y control de salud financiera del proyecto.`
+Dashboard centralizado con seguimiento por Gantt, Kanban y Curva S. Avance de obra, ejecución de presupuestos y control de salud financiera del proyecto.
 
 **CRM y pipeline comercial**
-
-`Creación y gestión de clientes, pipeline de ventas tipo Kanban para seguimiento de leads y oportunidades.`
+Creación y gestión de clientes, pipeline de ventas tipo Kanban para seguimiento de leads y oportunidades.
 
 **Proveedores y pagos**
-
-`Registro de proveedores y seguimiento de pagos asociados a cada proyecto.`
+Registro de proveedores y seguimiento de pagos asociados a cada proyecto.
 
 ---
 
@@ -53,9 +50,23 @@ Sin fricciones: acceso inmediato. [![google](https://img.shields.io/badge/login%
 
 | Módulo | Descripción |
 |--------|-------------|
-| Admin | Administración de equipos de trabajo con asignación de roles y permisos |
+| Roles y permisos | Administración de equipos con asignación de roles |
 | Planes y precios | Modelo estándar y enterprise |
 | Pasarela de pagos | Suscripciones y cobro en plataforma |
+
+---
+
+## Equipo fundador
+
+**Andrés Cristancho**
+
+[![github](https://img.shields.io/badge/adcristancho92-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/adcristancho92)
+[![linkedin](https://img.shields.io/badge/in-adcristancho-0d1117?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/adcristancho)
+
+**Javier Cristancho**
+
+[![github](https://img.shields.io/badge/javierpatin-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/javierpatin)
+[![linkedin](https://img.shields.io/badge/in-javiercristanchomacias-0d1117?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/javiercristanchomacias)
 
 ---
 
@@ -68,6 +79,6 @@ Sin fricciones: acceso inmediato. [![google](https://img.shields.io/badge/login%
 
 <div align="center">
 
-*© 2026 Facilia Holding S.A.S - Todos los derechos reservados*
+*© 2026 Facilia Holding S.A.S — Todos los derechos reservados*
 
 </div>
