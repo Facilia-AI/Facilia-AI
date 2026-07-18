@@ -9,8 +9,8 @@
 [![app](https://img.shields.io/badge/facilia.app-live-3ECF8E?style=flat-square)](https://facilia.app)
 [![país](https://img.shields.io/badge/hecho%20en-Colombia-FFD700?style=flat-square)](#)
 [![ia](https://img.shields.io/badge/powered%20by-AI-CC785C?style=flat-square)](#)
-[![empresa](https://img.shields.io/badge/facilia%20holding%20s.a.s-Barranquilla-56E39F?style=flat-square)](#)
-[![emprelatam](https://img.shields.io/badge/acelerada%20por-Emprelatam%20ECL17-6C2BD9?style=flat-square)](#)
+[![empresa](https://img.shields.io/badge/Facilia%20Holding%20S.A.S-Barranquilla-56E39F?style=flat-square)](#)
+[![emprelatam](https://img.shields.io/badge/acelerada%20por-Emprelatam%20ECL17-6C2BD9?style=flat-square)](https://emprelatam.com)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## ¿Qué es Facilia AI?
 
-Facilia es un SaaS vertical impulsado con AI para contratistas de construcción y empresas de mantenimiento en Colombia. Su propuesta es reemplazar el ciclo WhatsApp + Excel + memoria con una plataforma integrada de CRM, cotización inteligente, gestión de proyectos, control presupuestal y flujo de caja - todo diseñado para la realidad del contratista colombiano.
+Facilia es un SaaS vertical impulsado con IA para contratistas de construcción y empresas de mantenimiento en Colombia. Su propuesta es reemplazar el ciclo WhatsApp + Excel + memoria con una plataforma integrada de CRM, cotización inteligente, gestión de proyectos, control presupuestal, flujo de caja y gestión de equipos - todo diseñado para la realidad del contratista colombiano.
 
 Sin fricciones: acceso inmediato. [![google](https://img.shields.io/badge/login%20con%20Google-0a0a0a?style=flat-square&logo=google&logoColor=white)](https://facilia.app)
 [![github](https://img.shields.io/badge/login%20con%20GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://facilia.app)
@@ -41,7 +41,7 @@ Sin fricciones: acceso inmediato. [![google](https://img.shields.io/badge/login%
 
 ### Disponibles hoy
 
-**Agente AI de cotizaciones**
+**Agente IA de cotizaciones**
 
 `Asistente virtual que guía al contratista paso a paso en la recopilación de datos del proyecto y genera cotizaciones profesionales organizadas por capítulos, respaldadas por precios reales del mercado colombiano (APU 2026).`
 
@@ -51,7 +51,7 @@ Sin fricciones: acceso inmediato. [![google](https://img.shields.io/badge/login%
 
 **Gestión de obras y proyectos**
 
-`Dashboard centralizado con seguimiento por Gantt, Kanban y Curva S. Avance de obra, ejecución de presupuestos y control de salud financiera del proyecto.`
+`Dashboard centralizado con seguimiento por Gantt, Kanban y Curva S. Avance de obra, ejecución de presupuestos, flujo de caja y control de salud financiera del proyecto.`
 
 **CRM y pipeline comercial**
 
@@ -61,15 +61,21 @@ Sin fricciones: acceso inmediato. [![google](https://img.shields.io/badge/login%
 
 `Registro de proveedores y seguimiento de pagos asociados a cada proyecto.`
 
+**Administración de equipos**
+
+`Administración de equipos con asignación de roles y permisos por miembro.`
+
+**Planes y precios**
+
+`Modelos de suscripción estándar y enterprise.`
+
 ---
 
 ### Próximamente
 
-| Módulo | Descripción |
-|--------|-------------|
-| Admin | Administración de equipos con asignación de roles y permisos |
-| Planes y precios | Modelo estándar y enterprise |
-| Pasarela de pagos | Suscripciones y cobro en plataforma |
+| Módulo | Descripción | Estado |
+|--------|-------------|--------|
+| Pasarela de pagos | Suscripciones y cobro en plataforma, integrada con Wompi | En sandbox, alistando el lanzamiento a producción |
 
 ---
 
