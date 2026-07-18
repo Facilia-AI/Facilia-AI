@@ -10,6 +10,7 @@
 [![país](https://img.shields.io/badge/hecho%20en-Colombia-FFD700?style=flat-square)](#)
 [![ia](https://img.shields.io/badge/powered%20by-AI-CC785C?style=flat-square)](#)
 [![empresa](https://img.shields.io/badge/facilia%20holding%20s.a.s-Barranquilla-56E39F?style=flat-square)](#)
+[![emprelatam](https://img.shields.io/badge/acelerada%20por-Emprelatam%20ECL17-6C2BD9?style=flat-square)](#)
 
 </div>
 
@@ -21,6 +22,18 @@ Facilia es un SaaS vertical impulsado con AI para contratistas de construcción 
 
 Sin fricciones: acceso inmediato. [![google](https://img.shields.io/badge/login%20con%20Google-0a0a0a?style=flat-square&logo=google&logoColor=white)](https://facilia.app)
 [![github](https://img.shields.io/badge/login%20con%20GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://facilia.app)
+
+---
+
+## Startup acelerada por Emprelatam
+
+<div align="center">
+
+<img src="assets/Acelerada-por-Emprelatam.png" alt="Startup acelerada por Emprelatam · ECL17" width="260" />
+
+`Facilia AI fue seleccionada por Emprelatam para integrar su cohorte ECL17, programa de aceleración de startups de alto impacto en Latinoamérica.`
+
+</div>
 
 ---
 
