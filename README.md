@@ -61,15 +61,21 @@ Sin fricciones: acceso inmediato. [![google](https://img.shields.io/badge/login%
 
 `Registro de proveedores y seguimiento de pagos asociados a cada proyecto.`
 
+**Administración de equipos**
+
+`Administración de equipos con asignación de roles y permisos por miembro.`
+
+**Planes y precios**
+
+`Modelos de suscripción estándar y enterprise.`
+
 ---
 
 ### Próximamente
 
-| Módulo | Descripción |
-|--------|-------------|
-| Admin | Administración de equipos con asignación de roles y permisos |
-| Planes y precios | Modelo estándar y enterprise |
-| Pasarela de pagos | Suscripciones y cobro en plataforma |
+| Módulo | Descripción | Estado |
+|--------|-------------|--------|
+| Pasarela de pagos | Suscripciones y cobro en plataforma, integrada con Wompi | En sandbox, alistando el lanzamiento a producción |
 
 ---
 
