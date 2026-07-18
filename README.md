@@ -9,8 +9,8 @@
 [![app](https://img.shields.io/badge/facilia.app-live-3ECF8E?style=flat-square)](https://facilia.app)
 [![país](https://img.shields.io/badge/hecho%20en-Colombia-FFD700?style=flat-square)](#)
 [![ia](https://img.shields.io/badge/powered%20by-AI-CC785C?style=flat-square)](#)
-[![empresa](https://img.shields.io/badge/facilia%20holding%20s.a.s-Barranquilla-56E39F?style=flat-square)](#)
-[![emprelatam](https://img.shields.io/badge/acelerada%20por-Emprelatam%20ECL17-6C2BD9?style=flat-square)](#)
+[![empresa](https://img.shields.io/badge/Facilia%20Holding%20S.A.S-Barranquilla-56E39F?style=flat-square)](#)
+[![emprelatam](https://img.shields.io/badge/acelerada%20por-Emprelatam%20ECL17-6C2BD9?style=flat-square)](https://emprelatam.com)
 
 </div>
 
@@ -41,7 +41,7 @@ Sin fricciones: acceso inmediato. [![google](https://img.shields.io/badge/login%
 
 ### Disponibles hoy
 
-**Agente AI de cotizaciones**
+**Agente IA de cotizaciones**
 
 `Asistente virtual que guía al contratista paso a paso en la recopilación de datos del proyecto y genera cotizaciones profesionales organizadas por capítulos, respaldadas por precios reales del mercado colombiano (APU 2026).`
 
@@ -51,7 +51,7 @@ Sin fricciones: acceso inmediato. [![google](https://img.shields.io/badge/login%
 
 **Gestión de obras y proyectos**
 
-`Dashboard centralizado con seguimiento por Gantt, Kanban y Curva S. Avance de obra, ejecución de presupuestos y control de salud financiera del proyecto.`
+`Dashboard centralizado con seguimiento por Gantt, Kanban y Curva S. Avance de obra, ejecución de presupuestos, flujo de caja y control de salud financiera del proyecto.`
 
 **CRM y pipeline comercial**
 
