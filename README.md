@@ -18,7 +18,7 @@
 
 ## ¿Qué es Facilia AI?
 
-Facilia es un SaaS vertical impulsado con AI para contratistas de construcción y empresas de mantenimiento en Colombia. Su propuesta es reemplazar el ciclo WhatsApp + Excel + memoria con una plataforma integrada de CRM, cotización inteligente, gestión de proyectos, control presupuestal y flujo de caja - todo diseñado para la realidad del contratista colombiano.
+Facilia es un SaaS vertical impulsado con IA para contratistas de construcción y empresas de mantenimiento en Colombia. Su propuesta es reemplazar el ciclo WhatsApp + Excel + memoria con una plataforma integrada de CRM, cotización inteligente, gestión de proyectos, control presupuestal, flujo de caja y gestión de equipos - todo diseñado para la realidad del contratista colombiano.
 
 Sin fricciones: acceso inmediato. [![google](https://img.shields.io/badge/login%20con%20Google-0a0a0a?style=flat-square&logo=google&logoColor=white)](https://facilia.app)
 [![github](https://img.shields.io/badge/login%20con%20GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://facilia.app)
